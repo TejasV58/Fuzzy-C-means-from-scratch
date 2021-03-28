@@ -1,5 +1,5 @@
 # Fuzzy-C-means-Algorithm
-<div align=center>
+<div>
 	<img align=center src="Images/sepal-plot.png" width="350px" height = 350px/>
 	<img align=center src="Images/petal-plot.png" width="350px" height = 350px/>
 </div>
@@ -12,8 +12,8 @@
 
 google colab or jupyter notebook
 
-packages:
-<br>
+**packages**:
+<br><br>
 Pandas - https://pandas.pydata.org/docs/getting_started/install.html <br>
 Numpy - https://numpy.org/install/ <br>
 Matplotlib - https://matplotlib.org/stable/users/installing.html <br>
@@ -31,6 +31,6 @@ sklearn - https://scikit-learn.org/stable/install.html <br>
 
 ## References:
 
-https://www.kaggle.com/prateekk94/fuzzy-c-means-clustering-on-iris-dataset
-https://youtu.be/FA-hJBu5Bkc
-http://www.cleartheconcepts.com/fuzzy-c-means/
+https://www.kaggle.com/prateekk94/fuzzy-c-means-clustering-on-iris-dataset <br>
+https://youtu.be/FA-hJBu5Bkc <br>
+http://www.cleartheconcepts.com/fuzzy-c-means/ <br>

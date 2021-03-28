@@ -1,7 +1,10 @@
 # Fuzzy-C-means-Algorithm
-
-<img align=left src="Images/sepal-plot.png" width="350px" height = 350px/>
-<img align=right src="Images/petal-plot.png" width="350px" height = 350px/>
+<div>
+	<img align=center src="Images/sepal-plot.png" width="350px" height = 350px/>
+	<img align=center src="Images/petal-plot.png" width="350px" height = 350px/>
+</div>
+<br>
+<br>
 
 ### Dataset used: Iris dataset
 
@@ -24,6 +27,7 @@ sklearn - https://scikit-learn.org/stable/install.html
 3. After opening the file in google colab or jupyter notebook run all the cells and see the output.
 4. Observe the plots to understand the results of the algorithm.
 
+---
 
 ## References:
 

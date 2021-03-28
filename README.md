@@ -1,7 +1,7 @@
 # Fuzzy-C-means-Algorithm
 
-<img align=left src="images/sepal-plot.png" width="350px" height = 350px/>
-<img align=right src="images/petal-plot.png"/>
+<img align=left src="Images/sepal-plot.png" width="350px" height = 350px/>
+<img align=right src="Images/petal-plot.png" width="350px" height = 350px/>
 
 ### Dataset used: Iris dataset
 

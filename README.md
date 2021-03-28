@@ -1,5 +1,5 @@
 # Fuzzy-C-means-Algorithm
-<div>
+<div align=center>
 	<img align=center src="Images/sepal-plot.png" width="350px" height = 350px/>
 	<img align=center src="Images/petal-plot.png" width="350px" height = 350px/>
 </div>
@@ -13,11 +13,11 @@
 google colab or jupyter notebook
 
 packages:
-
-Pandas - https://pandas.pydata.org/docs/getting_started/install.html
-Numpy - https://numpy.org/install/
-Matplotlib - https://matplotlib.org/stable/users/installing.html
-sklearn - https://scikit-learn.org/stable/install.html
+<br>
+Pandas - https://pandas.pydata.org/docs/getting_started/install.html <br>
+Numpy - https://numpy.org/install/ <br>
+Matplotlib - https://matplotlib.org/stable/users/installing.html <br>
+sklearn - https://scikit-learn.org/stable/install.html <br>
 	
 
 ## Steps involved:

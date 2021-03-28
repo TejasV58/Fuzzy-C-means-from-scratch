@@ -1,5 +1,8 @@
 # Fuzzy-C-means-Algorithm
 
+<img align=left src="images/sepal-plot.png" width="350px" height = 350px/>
+<img align=right src="images/petal-plot.png"/>
+
 ### Dataset used: Iris dataset
 
 ## Requirements:

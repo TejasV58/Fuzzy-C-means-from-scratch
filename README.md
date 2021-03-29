@@ -1,4 +1,4 @@
-# Fuzzy-C-means-Algorithm
+# Fuzzy C-means Algorithm
 <div>
 	<img align=center src="Images/sepal-plot.png" width="350px" height = 350px/>
 	<img align=center src="Images/petal-plot.png" width="350px" height = 350px/>
@@ -6,6 +6,7 @@
 <br>
 <br>
 
+### Type: Clustering algorithm 
 ### Dataset used: Iris dataset
 
 ## Requirements:
